@@ -8,7 +8,7 @@ nav.addEventListener("mouseover", (event) => {
 
   nav.addEventListener("mouseout", (event) => {
     // highlight the mouseover target
-    event.target.style.color = "#C39787";
+    event.target.style.color = "#F9AF94";
   }, false);
 
 document.querySelectorAll('a').forEach(anchor => {
